@@ -22,6 +22,8 @@ IOU score for Train and Val Data are **0.4715** and **0.4199**.
   <em>Sample Outputs</em>
 </p>
 
+## Blog link: https://harishkumar-69065.medium.com/indian-traffic-semantic-segmentation-d4a0062c81fc
+
 ## Contains one file and one folder:
 * Segmentation.ipynb - Segmentation using U-Net.
 * Images Folder.
